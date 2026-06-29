@@ -1,6 +1,5 @@
 /* ================================================================
-   🫧 BUBBLE POP PRO — Complete Rewrite
-   State machine: START → GAME → PAUSE/LEVELUP → GAMEOVER → loop
+   Pop It — The Ultimate Anti-Stress Bubble Game 🎈
 ================================================================ */
 
 /* ─── LEVEL CONFIG ─── */
