@@ -1,4 +1,4 @@
-# Pop It — The Ultimate Anti-Stress Bubble Game 🎈
+# 🎈 Pop It — The Ultimate Anti-Stress Bubble Game
 
 [![GitHub stars](https://img.shields.io/github/stars/Darshittank/Pop-It)](https://github.com/Darshittank/Pop-It/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Darshittank/Pop-It)](https://github.com/Darshittank/Pop-It/network)
