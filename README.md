@@ -17,7 +17,7 @@
 
 <br />
 
-# 🎈 Pop It — The Ultimate Anti-Stress Bubble Game
+# Pop It — The Ultimate Anti-Stress Bubble Game 🎈
 
 > **Pop It** is a beautifully crafted, interactive web game inspired by the viral fidget toy sensation. It combines the satisfying joy of popping bubbles with multiple game modes for fun, relaxation, and memory training. Designed for all ages, it's the perfect digital companion for stress relief.
 
@@ -46,15 +46,6 @@
 
 - [🌟 Features](#-features)
 - [🎮 Game Modes](#-game-modes)
-- [📊 Leaderboard](#-leaderboard)
-- [🛠️ Built With](#️-built-with)
-- [📁 Project Structure](#-project-structure)
-- [🏃‍♂️ Getting Started](#️-getting-started)
-- [💻 Usage](#-usage)
-- [🗺️ Roadmap](#️-roadmap)
-- [🤝 Contributing](#-contributing)
-- [📝 License](#-license)
-- [🙏 Acknowledgments](#-acknowledgments)
 
 </details>
 
