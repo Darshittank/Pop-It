@@ -41,18 +41,6 @@
 
 ## 📖 Table of Contents
 
-<details>
-<summary><strong>Click to expand</strong></summary>
-
-- [🌟 Features](#-features)
-- [🎮 Game Modes](#-game-modes)
-
-</details>
-
-<br />
-
----
-
 ## 🌟 Features
 
 | Feature | Description |
@@ -68,31 +56,4 @@
 | **🌓 Dark/Light Mode** | Toggle between themes for comfortable playing day or night. |
 | **📊 Global Leaderboard** | Compete with players worldwide (coming soon). |
 
-<br />
-
 ---
-
-## 🎮 Game Modes
-
-Pop It offers three distinct game modes, each catering to a different mood or challenge.
-
-### 🏃 Arcade Mode
-*Challenge your speed and accuracy!*
-
-- **Objective**: Pop as many bubbles as possible within 60 seconds.
-- **Mechanic**: Each correct pop scores **10 points**. Popping the wrong bubble ends the game.
-- **Progression**: Difficulty increases with each level, with faster bubbles and more colors.
-
-### 🧘 Fidget Mode
-*Pure relaxation, no pressure.*
-
-- **Objective**: Pop bubbles freely with no timers or goals.
-- **Mechanic**: Click or tap on any bubble to pop it. Satisfying visual and audio feedback on every pop.
-- **Vibe**: Perfect for stress relief, anxiety reduction, and casual fun.
-
-### 🧠 Memory Mode
-*Test your brain power!*
-
-- **Objective**: Pop bubbles in a specific, randomized sequence.
-- **Mechanic**: Watch the bubble order, then reproduce it from memory.
-- **Challenge**: The sequence length increases with each successful round.
