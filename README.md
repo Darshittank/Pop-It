@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="[https://your-username.github.io/pop-it/](https://github.com/Darshittank/Pop-It)">
+  <a href="[[https://your-username.github.io/pop-it/](https://github.com/Darshittank/Pop-It)]">
     <img src="https://img.shields.io/badge/🎈-Live_Demo-ff69b4?style=for-the-badge&logo=githubpages" alt="Live Demo">
   </a>
   <a href="[https://github.com/your-username/pop-it/](https://github.com/Darshittank/Pop-It)blob/main/LICENSE">
