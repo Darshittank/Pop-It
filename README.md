@@ -1,47 +1,19 @@
-<p align="center">
-  <a href="https://darshittank.github.io/Pop-It/">
-    <img src="https://img.shields.io/badge/🎈-Live_Demo-ff69b4?style=for-the-badge&logo=githubpages" alt="Live Demo">
-  </a>
-  <a href="https://darshittank.github.io/Pop-It/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/darshittank.github.io/Pop-It?style=for-the-badge&color=blue" alt="License">
-  </a>
-</p>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/Darshittank/Pop-It">
-    <img src="https://via.placeholder.com/800x400/FF6B9D/FFFFFF?text=🎈+Pop+It+Game" alt="Pop It Game Banner" width="800">
-  </a>
-</div>
-
-<br />
-
 # Pop It — The Ultimate Anti-Stress Bubble Game 🎈
 
-> **Pop It** is a beautifully crafted, interactive web game inspired by the viral fidget toy sensation. It combines the satisfying joy of popping bubbles with multiple game modes for fun, relaxation, and memory training. Designed for all ages, it's the perfect digital companion for stress relief.
+[![GitHub stars](https://img.shields.io/github/stars/Darshittank/Pop-It)](https://github.com/Darshittank/Pop-It/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Darshittank/Pop-It)](https://github.com/Darshittank/Pop-It/network)
+[![GitHub issues](https://img.shields.io/github/issues/Darshittank/Pop-It)](https://github.com/Darshittank/Pop-It/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Play Online](https://img.shields.io/badge/Play-Now-brightgreen)](https://darshittank.github.io/Pop-It)
 
-<p align="center">
-  <a href="[https://your-username.github.io/pop-it/](https://github.com/Darshittank/Pop-It)">
-    <strong>🚀 View Live Demo</strong>
-  </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="[https://github.com/your-username/pop-it/](https://github.com/Darshittank/Pop-It)issues/new?labels=bug">
-    <strong>🐛 Report Bug</strong>
-  </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="[https://github.com/your-username/pop-it/](https://github.com/Darshittank/Pop-It)issues/new?labels=enhancement">
-    <strong>💡 Request Feature</strong>
-  </a>
-</p>
+## 🎯 **Live Demo**
+👉 **[Play Pop-It Online Now!](https://darshittank.github.io/Pop-It)** 👈
 
-<br />
+## 📖 **About Pop It**
 
----
+**Pop It** is a beautifully crafted, interactive web game inspired by the viral fidget toy sensation. It combines the satisfying joy of popping bubbles with multiple game modes for fun, relaxation, and memory training. Designed for all ages, it's the perfect digital companion for stress relief.
 
-## 📖 Table of Contents
-
-## 🌟 Features
+### 🎯 **Key Features**
 
 | Feature | Description |
 |:--------|:------------|
@@ -56,4 +28,47 @@
 | **🌓 Dark/Light Mode** | Toggle between themes for comfortable playing day or night. |
 | **📊 Global Leaderboard** | Compete with players worldwide (coming soon). |
 
----
+## 📸 Preview
+
+![Preview](assets/screenshot_1.png)
+
+## 🎮 **How to Play**
+
+1. **Click** on any bubble to pop it
+2. **Watch** the satisfying pop animation and sound effects
+3. **Compete** with friends to see who can pop the most bubbles
+4. **Reset** the board anytime to start a fresh game
+5. **Challenge yourself** to pop all bubbles in the fewest moves!
+
+**Goal:** Pop all the bubbles on the board and enjoy the stress-relieving fun! 🫧✨
+
+## 📊 **Scoring System**
+
+| Action | Points |
+|--------|--------|
+| Pop a single bubble | +10 pts |
+| Pop 5 bubbles in a row (combo) | +15 pts each |
+| Pop 10 bubbles in a row (combo) | +20 pts each |
+| Clear all bubbles (Perfect Game) | +50 bonus pts |
+| Reset the board | -0 pts (restart)
+
+## 🛠️ **Technologies Used**
+
+- **HTML5** - Semantic structure
+- **CSS3** - Modern animations & responsive design
+- **JavaScript (ES6+)** - Game logic & interactivity
+- **LocalStorage API** - Save high scores (coming soon)
+
+## 🚀 **Installation**
+
+### Local Development
+
+```bash
+# Clone the repository
+git clone https://github.com/Darshittank/Pop-It.git
+
+# Navigate to project directory
+cd Pop-It
+
+# Open index.html in your browser
+open index.html
