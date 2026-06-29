@@ -31,6 +31,7 @@
 ## 📸 Preview
 
 ![Preview](assets/screenshot_1.png)
+![Preview](assets/screenshot_2.png)
 
 ## 🎮 **How to Play**
 
