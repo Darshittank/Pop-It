@@ -11,7 +11,7 @@
 
 ## 📖 **About Pop It**
 
-**Pop It** is an interactive bubble popping game that combines relaxation, fun, and memory challenges. Inspired by the popular fidget toy, it offers multiple game modes to keep you entertained. Whether you want to relieve stress or test your memory, Pop It is the perfect digital companion for everyone.
+**Pop It** is a fun and satisfying bubble popping game. Inspired by the viral fidget toy, it offers multiple game modes for relaxation, memory training, and pure enjoyment. Perfect for kids and adults alike. Pop, relax, and have fun!
 
 ### 🎯 **Key Features**
 
