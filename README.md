@@ -41,7 +41,9 @@
 4. **Reset** the board anytime to start a fresh game
 5. **Challenge yourself** to pop all bubbles in the fewest moves!
 
-**Goal:** Pop all the bubbles on the board and enjoy the stress-relieving fun! 🫧✨
+**Goal:** Pop all the bubbles on the board and enjoy the stress-relieving fun!
+
+[![Play Online](https://img.shields.io/badge/Play-Now-brightgreen)](https://darshittank.github.io/Pop-It)
 
 ## 📊 **Scoring System**
 
