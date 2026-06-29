@@ -1,16 +1,16 @@
 <p align="center">
-  <a href="[[https://your-username.github.io/pop-it/](https://github.com/Darshittank/Pop-It)]">
+  <a href="https://darshittank.github.io/Pop-It/">
     <img src="https://img.shields.io/badge/🎈-Live_Demo-ff69b4?style=for-the-badge&logo=githubpages" alt="Live Demo">
   </a>
-  <a href="[https://github.com/your-username/pop-it/](https://github.com/Darshittank/Pop-It)blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/your-username/pop-it?style=for-the-badge&color=blue" alt="License">
+  <a href="https://darshittank.github.io/Pop-It/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/darshittank.github.io/Pop-It?style=for-the-badge&color=blue" alt="License">
   </a>
 </p>
 
 <br />
 
 <div align="center">
-  <a href="[https://your-username.github.io/pop-it/](https://github.com/Darshittank/Pop-It)">
+  <a href="https://github.com/Darshittank/Pop-It">
     <img src="https://via.placeholder.com/800x400/FF6B9D/FFFFFF?text=🎈+Pop+It+Game" alt="Pop It Game Banner" width="800">
   </a>
 </div>
