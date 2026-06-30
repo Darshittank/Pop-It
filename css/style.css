@@ -66,12 +66,13 @@ html,body{
   SCREENS
 ==================================================*/
 .screen{
-  position:fixed;inset:0;z-index:10;
-  display:flex;flex-direction:column;
-  align-items:center;justify-content:center;
-  padding:20px;
+  inset:0;z-index:10;
+  flex-direction:column;
   pointer-events:none;
-  opacity:0;
+  opacity:0;position:relative;
+  width:100%;display:flex;
+  justify-content:center;align-items:center;
+  padding:20px;overflow-y:auto;
 }
 .screen.active{pointer-events:all;}
 
