@@ -263,6 +263,9 @@ html,body{
   margin-bottom:14px;
   filter:drop-shadow(0 0 24px rgba(79,142,247,.5)) drop-shadow(0 0 48px rgba(244,114,182,.3));
 }
+.bubble-hero img{
+  max-width: 200px;
+}
 .level-badge{
   display:inline-flex;align-items:center;gap:6px;
   background:linear-gradient(135deg,rgba(79,142,247,.15),rgba(155,108,249,.15));
