@@ -66,13 +66,12 @@ html,body{
   SCREENS
 ==================================================*/
 .screen{
-  inset:0;z-index:10;
-  flex-direction:column;
+  position:fixed;inset:0;z-index:10;
+  display:flex;flex-direction:column;
+  align-items:center;justify-content:center;
+  padding:20px;
   pointer-events:none;
-  opacity:0;position:relative;
-  width:100%;display:flex;
-  justify-content:center;align-items:center;
-  padding:20px;overflow-y:auto;
+  opacity:0;
 }
 .screen.active{pointer-events:all;}
 
@@ -264,9 +263,6 @@ html,body{
   margin-bottom:14px;
   filter:drop-shadow(0 0 24px rgba(79,142,247,.5)) drop-shadow(0 0 48px rgba(244,114,182,.3));
 }
-.bubble-hero img{
-  max-width: 100px;
-}
 .level-badge{
   display:inline-flex;align-items:center;gap:6px;
   background:linear-gradient(135deg,rgba(79,142,247,.15),rgba(155,108,249,.15));
@@ -378,14 +374,12 @@ html,body{
   LEVEL UP OVERLAY
 ==================================================*/
 #level-overlay{
-  position:fixed;inset:0;z-index:40;
+  position:fixed;inset:0;z-index:35;
   display:flex;align-items:center;justify-content:center;
   background:rgba(7,9,15,.75);
   backdrop-filter:blur(12px);
   pointer-events:none;opacity:0;
-  transition:none;
 }
-#level-overlay.active{pointer-events:all;}
 #level-overlay .card{max-width:380px;}
 .lvl-number{
   font-family:var(--font-hud);
@@ -423,14 +417,12 @@ html,body{
   PAUSE OVERLAY
 ==================================================*/
 #pause-overlay{
-  position:fixed;inset:0;z-index:38;
+  position:fixed;inset:0;z-index:25;
   display:flex;align-items:center;justify-content:center;
   background:rgba(7,9,15,.65);
   backdrop-filter:blur(10px);
   pointer-events:none;opacity:0;
-  transition:none;
 }
-#pause-overlay.active{pointer-events:all;}
 #pause-overlay .card{max-width:320px;padding:30px 34px;}
 
 /*==================================================
